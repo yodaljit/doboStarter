@@ -1,4 +1,4 @@
-# SaaS Foundation
+# DoboStarter
 
 A modern, full-stack SaaS foundation built with Next.js, Supabase, and Stripe. This project provides a complete starting point for building multi-tenant SaaS applications with authentication, team management, subscription billing, and email notifications.
 
@@ -80,7 +80,7 @@ git --version   # Should show git version
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd sasser
+cd dobostarter
 
 # Install dependencies
 npm install
